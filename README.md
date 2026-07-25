@@ -16,8 +16,8 @@ I build products end to end — apps, APIs, models, and onchain payments.
   </a>
 </p>
 
-**Focus:** MiniPay · Celo · x402 · LLM apps
 
-**Now:** [PolyPulse](https://github.com/blocdevrel/polypulse) — pay-per-report market intelligence on Celo
+
+
 
 [GitHub](https://github.com/blocdevrel) · [Email](mailto:blockdevrel@gmail.com)
