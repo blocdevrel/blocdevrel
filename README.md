@@ -1,23 +1,18 @@
-# blockdevrel
+# Alex Njoya
 
-Fullstack engineer · AI · Blockchain
+**Full-Stack Developer · AI Agents · Blockchain Engineer**
 
-I build products end to end — apps, APIs, models, and onchain payments.
+I build agent frameworks and Web3 products end to end — apps, APIs, smart contracts, and onchain payments.
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,react,postgres,prisma,docker,git" alt="Stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,react,nodejs,nestjs,postgres,docker,git" alt="Fullstack" />
 </p>
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,ethereum,linux" alt="Blockchain" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,linux" alt="Blockchain" />
 </p>
 
+**Focus:** AI agents · agent frameworks · NestJS · Python · Solidity · EVM
 
 
-
-
-[GitHub](https://github.com/blocdevrel) · [Email](mailto:blockdevrel@gmail.com)
+[Website](https://YOUR-SITE.com) · [GitHub](https://github.com/alexnjoya) · [LinkedIn](https://linkedin.com/in/alexnjoya) · [Email](mailto:njoyaalexander71@gmail.com)
